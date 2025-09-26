@@ -1,0 +1,10 @@
+path: data/trash6
+train: images/train
+val: images/val
+names:
+- cardboard
+- glass
+- metal
+- paper
+- plastic
+- trash
